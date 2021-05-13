@@ -1,0 +1,110 @@
+{
+  "logo": {
+    "text": "My TON wallet",
+    "type": "link",
+    "path": "index.html"
+  },
+  "main": [
+    {
+      "text": "Home",
+      "type": "link",
+      "path": "/"
+    },
+    {
+      "text": "Installation",
+      "type": "link",
+      "path": "installation.html"
+    },
+    {
+      "text": "UI",
+      "type": "label"
+    },
+    {
+      "text": "First run",
+      "type": "link",
+      "path": "ui/first_run.html"
+    },
+    {
+      "text": "Create a new wallet",
+      "type": "link",
+      "path": "ui/create_new_wallet.html"
+    },
+    {
+      "text": "Restore a new wallet",
+      "type": "link",
+      "path": "ui/restore_new_wallet.html"
+    },
+    {
+      "text": "Backup",
+      "type": "label"
+    },
+    {
+      "text": "Backup wallet",
+      "type": "link",
+      "path": "ui/backup_wallet.html"
+    },
+    {
+      "text": "Backup as keystore",
+      "type": "link",
+      "path": "ui/backup/backup_wallet_keystore.html"
+    },
+    {
+      "text": "Backup as keys",
+      "type": "link",
+      "path": "ui/backup/backup_wallet_keys.html"
+    },
+    {
+      "text": "Restore",
+      "type": "label"
+    },
+    {
+      "text": "Restore wallet",
+      "type": "link",
+      "path": "ui/restore_wallet.html"
+    },
+    {
+      "text": "Restore wallet from keystore",
+      "type": "link",
+      "path": "ui/restore/restore_wallet_keystore.html"
+    },
+    {
+      "text": "Restore wallet from keys (legacy)",
+      "type": "link",
+      "path": "ui/restore/restore_wallet_keys.html"
+    },
+    {
+      "text": "Restore wallet from seed phrase (legacy)",
+      "type": "link",
+      "path": "ui/restore/restore_wallet_seed.html"
+    },
+    {
+      "text": "Send a transaction",
+      "type": "link",
+      "path": "ui/send_transaction.html"
+    },
+    {
+      "text": "Settings",
+      "type": "link",
+      "path": "ui/settings.html"
+    },
+    {
+      "text": "SUPPORT AND FEEDBACK",
+      "type": "label"
+    },
+    {
+      "text": "Send a message to us",
+      "type": "link",
+      "path": "https://docs.google.com/forms/d/e/1FAIpQLSeDZwc8cvMKhjQc2PzTiqNCJ31oAqvhzbO6IEWBv1CBu2b3LA/viewform"
+    },
+    {
+      "text": "Raise an issue on Github",
+      "type": "link",
+      "path": "https://github.com/mytonwallet/web-extension/issues/new"
+    },
+    {
+      "text": "Privacy policy",
+      "type": "link",
+      "path": "privacy.html"
+    }
+  ]
+}
